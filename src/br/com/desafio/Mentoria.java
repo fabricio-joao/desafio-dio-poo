@@ -1,6 +1,7 @@
 package br.com.desafio;
 
 import java.time.LocalDate;
+import java.util.Objects;
 
 public class Mentoria extends Conteudo{
     private LocalDate data;
